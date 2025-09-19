@@ -1,8 +1,8 @@
 ---
 layout: scrum
 title: "위대한 개츠비(1)"
-date: 2024-01-15
-author: "예시"
+date: 2025-09-01
+author: "박건희"
 categories: [scrum]
 ---
 

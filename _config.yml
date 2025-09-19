@@ -1,6 +1,6 @@
 # Jekyll 설정
-title: "데일리 스크럼 게시판"
-description: "팀원들의 데일리 스크럼을 확인하고 공유하세요"
+title: "GrowUp 정건"
+description: "하루 한페이지 나를 키우는 마음의 양식"
 url: ""
 baseurl: ""
 
@@ -53,16 +53,8 @@ exclude:
 
 # 팀원 목록
 team_members:
-  - name: "신민혁"
-    folder: "신민혁"
-  - name: "고윤아"
-    folder: "고윤아"
-  - name: "김병곤"
-    folder: "김병곤"
-  - name: "김선민"
-    folder: "김선민"
-  - name: "최문규"
-    folder: "최문규"
+  - name: "윤정민"
+    folder: "윤정민"
   - name: "박건희"
     folder: "박건희"
 
